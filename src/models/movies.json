@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "O dilema das redes",
+        "genre": "Documentário",
+        "synopsis": "O filme analisa o papel das redes sociais e os danos que elas causam à sociedade (...)",
+        "watched": false
+    },
+    {
+        "id": 2,
+        "name": "O diabo veste prada",
+        "genre": "Comedia",
+        "synopsis": "Andy, uma moça recém-formada e com grandes sonhos, vai trabalhar na conceituada revista de moda Runway (...)",
+        "watched": false
+    },
+    {
+        "id": 3,
+        "name": "Fome de Poder",
+        "genre": "Drama",
+        "synopsis": "Ray Kroc adquire uma participação nos negócios da lanchonete dos irmãos Richard e Maurice Mac McDonald no sul da Califórnia (...)",
+        "watched": true
+    },
+    {
+        "id": 4,
+        "name": "Malévola",
+        "genre": "Aventura",
+        "synopsis": "Malévola, uma jovem de coração puro, vive em um pacífico reino na floresta (...)",
+        "watched": false
+    },
+    {
+        "id": 5,
+        "name": "Um sonho possível",
+        "genre": "Drama",
+        "synopsis": "Michael Oher é negro, pobre, grandalhão e calado. Ele foi abandonado pela mãe e agora (...)",
+        "watched": true
+    },
+    {
+        "id": 6,
+        "name": "Estrelas além do tempo",
+        "genre": "Ficção histórica",
+        "synopsis": "No auge da corrida espacial, uma equipe de cientistas da NASA formada exclusivamente por mulheres afro-americanas provou (...)",
+        "watched": false
+    },
+{
+        "id": 7,
+        "name": "Walt antes do Mickey",
+        "genre": "Drama",
+        "synopsis": "Walter Elias Disney antes do sucesso. A difícil trajetória do empreendedor (...)",
+        "watched": true
+    },
+    {
+        "id": 8,
+        "name": "O melhor amigo da noiva",
+        "genre": "Comédia romântica",
+        "synopsis": "Tom é um jovem que evita compromissos e sua melhor amiga encontra o homem ideal, quando Tom descobre que a ama (...)",
+        "watched": false
+    },
+{
+        "id": 9,
+        "name": "Pantera Negra",
+        "genre": "Super-herói",
+        "synopsis": "Pantera Negra é um super-herói, cuja identidade secreta é a de T'Challa, rei de Wakanda (...)",
+        "watched": false
+    },
+    {
+        "id": 10,
+        "name": "Milagre na cela 7",
+        "genre": "Drama",
+        "synopsis": "Memo, um pastor de ovelhas com deficiência mental, tem sua vida virada de cabeça para baixo quando é acusado de assassinato e condenado à morte (...)",
+        "watched": true
+    }
+]
